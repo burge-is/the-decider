@@ -1,0 +1,23 @@
+{
+    "name": "the-decider",
+    "version": "1.0.0",
+    "description": "...but I'm the decider.",
+    "scripts": {
+      "test": "jest"
+    },
+    "keywords": [
+      "decision-engine",
+      "rules-engine",
+      "conditions",
+      "logic",
+      "custom-rules"
+    ],
+    "author": "David Burgess",
+    "license": "MIT",
+    "dependencies": {
+    },
+    "devDependencies": {
+      "jest": "29.7.0"
+    }
+  }
+  
